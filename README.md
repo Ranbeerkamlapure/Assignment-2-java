@@ -5,7 +5,7 @@ This repository contains Java programs that demonstrate core object-oriented pro
 
 ## 📂 Files Included
 
-| File Name             | Description                                      |
+| File Name             | Description                                     |
 |----------------------|--------------------------------------------------|
 | `CalculatorDemo.java`| Basic calculator using conditional logic         |
 | `InterfaceDemo.java` | Demonstrates interface implementation            |
